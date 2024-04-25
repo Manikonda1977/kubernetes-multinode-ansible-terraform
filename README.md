@@ -3,6 +3,18 @@ We are setting up the Multi Node K8s Cluster on AWS EC2 instances using Terrafor
 
 ## Diagram
 ![Screenshot (8792)](https://github.com/Sayantan2k24/kubernetes-multinode-ansible-terraform/assets/90416470/77d5fe63-2635-41f3-9c7a-a87efc813de6)
+
+## Tools Used
+1. Terraform
+2. Ansible
+3. AWS
+4. Rhel 9 OS
+5. Kubeadm
+6. CRI-O 
+7. Kubectl
+8. Calico CNI
+and more..
+   
 ## Overview
 ### terraform-ws:
 
